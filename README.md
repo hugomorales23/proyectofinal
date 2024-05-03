@@ -1,2 +1,2 @@
 # proyectofinal
-Proyecto final Hugo MOrales
+Proyecto final Hugo Morales
